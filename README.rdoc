@@ -1,1 +1,8 @@
+👨‍🏫 Sobre
+O Proffy é uma aplicação Web e Mobile com o objetivo de criar uma interação entre professores de diversas matérias e alunos. É possível cadastrar aulas e entrar em contato com o professor desejado.
+ 
+
+
 https://user-images.githubusercontent.com/50881391/90795915-08212700-e2e5-11ea-8175-964a114eed54.png
+
+Essa aplicação foi desenvolvida durante a Next Level Week #2, projeto da Rocketseat.
